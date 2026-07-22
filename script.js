@@ -43,10 +43,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
   /* ---------- Typing animation ---------- */
   const roles = [
-    'Entry-Level Frontend Developer',
-    'Web Designer',
-    'HTML & CSS Developer',
-    'Currently Learning JavaScript'
+    'Full-Stack Web Developer',
+    'WordPress & Elementor Expert',
+    'SaaS & Custom Software Developer',
+    'Turning Ideas Into Digital Products'
   ];
   const typedEl = document.getElementById('typedRole');
   let roleIndex = 0;
