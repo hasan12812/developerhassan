@@ -1,12 +1,16 @@
 {
   "name": "Hassan Raza — Full-Stack Developer",
   "short_name": "Hassan Raza",
-  "description": "Portfolio of Hassan Raza, Profassional Full-Stack Developer skilled in HTML5, CSS3, Bootstrap 5 and JavaScript Express.js PHP MySQL.",
+  "description": "Portfolio of Hassan Raza, a Full-Stack Developer building WordPress websites, SEO, Google My Business, SaaS platforms, CRM, POS and Hospital Management Systems.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#090d14",
   "theme_color": "#090d14",
   "icons": [
-    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
   ]
 }

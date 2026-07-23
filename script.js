@@ -45,6 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const roles = [
     'Full-Stack Web Developer',
     'WordPress & Elementor Expert',
+    'SEO & Google My Business Specialist',
     'SaaS & Custom Software Developer',
     'Turning Ideas Into Digital Products'
   ];
